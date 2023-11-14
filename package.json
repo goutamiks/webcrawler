@@ -198,6 +198,11 @@
     "start": "node main.js",
     "test": "jest"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goutamiks/webcrawler"
+  },
   "author": "",
   "license": "ISC"
+  
 }
