@@ -112,6 +112,7 @@
     "jest-worker": "^29.7.0",
     "js-tokens": "^4.0.0",
     "js-yaml": "^3.14.1",
+    "jsdom": "^22.1.0",
     "jsesc": "^2.5.2",
     "json-parse-even-better-errors": "^2.3.1",
     "json5": "^2.2.3",
@@ -193,7 +194,6 @@
     "yargs-parser": "^21.1.1",
     "yocto-queue": "^0.1.0"
   },
-  "devDependencies": {},
   "scripts": {
     "start": "node main.js",
     "test": "jest"
